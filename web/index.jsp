@@ -21,7 +21,7 @@
 <div class="message warning">
     <div class="inset">
         <div class="login-head">
-            <h1><center>Eden Hauler Login</center></h1>
+            <h1><center>Eden Customer Login</center></h1>
             <!-- <div class="alert-close"></div> -->
         </div>
         <form>
